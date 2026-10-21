@@ -64,4 +64,3 @@ Example record:
 - A product is low in stock when quantity is less than or equal to its reorderLevel.
 - An order must contain at least one item.
 - Customer names and records in this project are fictional.
--
