@@ -29,16 +29,15 @@ A backend API project for managing product inventory, tracking stock levels, and
 
 ```text
 Cloud-Inventory-Order-Management/
-├── architecture/
-├── data/
-├── docs/
-├── screenshots/
 ├── src/
 │   ├── main.py
 │   ├── test_api.py
 │   └── requirements.txt
+|   └── test_connection.py
+└── data-model.md
 └── README.md
-```
+└── CloudInventoryDB.sql
+
 
 ## Local Setup
 
